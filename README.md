@@ -1,16 +1,16 @@
-## Hi there 👋
+<a href="https://advents.io/?utm_medium=social&utm_source=github&utm_campaign=gabriel-profile">
+  <img alt="Advents is the mobile attribution tool for modern apps." src="https://github.com/advents-io/docs/blob/main/misc/og.png">
+</a>
 
-<!--
-**gabriel-moresco/gabriel-moresco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Advents</h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  The mobile attribution tool for modern apps.
+  <br />
+  <a href="https://advents.io/?utm_medium=social&utm_source=github&utm_campaign=gabriel-profile"><strong>Learn more »</strong></a>
+  <br />
+  <br />
+  <a href="https://advents.io/?utm_medium=social&utm_source=github&utm_campaign=gabriel-profile">Website</a>
+  ·
+  <a href="https://docs.advents.io">Documentation</a>
+</p>
