@@ -1,18 +1,20 @@
 <a href="https://advents.io/?utm_medium=social&utm_source=github&utm_campaign=gabriel-profile">
-  <img alt="Advents is the mobile attribution tool for modern apps." src="https://github.com/advents-io/docs/blob/main/.github/preview-app.png">
+  <img alt="Advents platform preview." src="https://github.com/advents-io/docs/blob/main/.github/preview-app.png">
 </a>
 
 <h2 align="center">Advents</h2>
 
 <p align="center">
-  The AppsFlyer alternative.
+  The platform to grow your app.
   <br />
-  <a href="https://advents.io/?utm_medium=social&utm_source=github&utm_campaign=gabriel-profile"><strong>Learn more »</strong></a>
+  Advents is the alternative to AppsFlyer and Firebase Dynamic Links.
   <br />
   <br />
   <a href="https://advents.io/?utm_medium=social&utm_source=github&utm_campaign=gabriel-profile">Website</a>
   ·
   <a href="https://app.advents.io">Platform</a>
   ·
-  <a href="https://docs.advents.io">Documentation</a>
+  <a href="https://docs.advents.io">Docs</a>
+  ·
+  <a href="https://www.youtube.com/watch?v=3fAn__YR6jI">Demo</a>
 </p>
