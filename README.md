@@ -1,5 +1,5 @@
 <a href="https://advents.io/?utm_medium=social&utm_source=github&utm_campaign=gabriel-profile">
-  <img alt="Advents platform preview." src="https://github.com/advents-io/docs/blob/main/.github/preview-app.png">
+  <img alt="Advents platform preview." src="https://github.com/advents-io/docs/blob/main/.github/preview-app.png" />
 </a>
 
 <h2 align="center">Advents</h2>
