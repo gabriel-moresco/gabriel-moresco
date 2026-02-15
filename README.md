@@ -5,7 +5,7 @@
 <h2 align="center">Primali</h2>
 
 <p align="center">
-  Sell more by accepting card receivables as payment.
+  Sell more with less risk.
   <br />
   Visit our <a href="https://primali.com.br">Website</a>.
 </p>
