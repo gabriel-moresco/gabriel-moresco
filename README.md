@@ -1,5 +1,5 @@
 <a href="https://primali.com.br">
-  <img alt="Primali Brand" src="https://github.com/primali-ai/.github/blob/main/og.png" />
+  <img alt="Primali Brand" src="https://primali.com.br/og.png" />
 </a>
 
 <h2 align="center">Primali</h2>
