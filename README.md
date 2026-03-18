@@ -1,11 +1,5 @@
-<a href="https://primali.com.br">
-  <img alt="Primali Brand" src="https://primali.com.br/og.png" />
-</a>
+### Hi, I'm Gabriel Moresco 👋
 
-<h2 align="center">Primali</h2>
+Software Engineer focused on building products from scratch across web, mobile, and AI. Over the past 7+ years, I’ve worked in engineering leadership, built internal software at scale, and co-founded startups, including a B2B2C platform that grew to 130k downloads, 27k MAU, and 700 paying customers.
 
-<p align="center">
-  Sell more with less risk.
-  <br />
-  Visit our <a href="https://primali.com.br">Website</a>.
-</p>
+I mainly work with TypeScript, React, Next.js, Node.js, PostgreSQL, React Native, and Expo.
