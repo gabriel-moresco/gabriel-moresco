@@ -1,4 +1,4 @@
-### Hi, I'm Gabriel Moresco 👋
+## Gabriel Moresco
 
 Builder-minded Product Engineer with 8+ years of experience building products across web, mobile, and AI.
 
